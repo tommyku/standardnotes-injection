@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Standard Notes Injection",
+  "version": "0.0.1",
+  "content_scripts": [
+    {
+      "matches": ["https://app.standardnotes.org/*"],
+      "css": ["style.css"]
+    }
+  ]
+}

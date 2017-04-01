@@ -1,6 +1,5 @@
 /* General */
 
-
 body {
   color: #d0d0d0 !important;
 }
@@ -122,8 +121,10 @@ body {
 }
 
 .editor-content .editable {
+  font-family: 'Roboto Mono Medium for Powerline' !important;
   background-color: #202020;
-  color: #c7c7e0;
+  color: #d8d8d8;
+  font-size: 14px !important;
 }
 
 #editor-title-bar .editor-tags .tags-input {

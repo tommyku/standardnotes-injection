@@ -121,7 +121,7 @@ body {
 }
 
 .editor-content .editable {
-  font-family: 'Roboto Mono for Powerline' !important;
+  font-family: 'Noto Mono', 'Roboto Mono for Powerline', 'monospace' !important;
   background-color: #202020;
   color: #d8d8d8;
   font-size: 14px !important;

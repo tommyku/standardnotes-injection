@@ -8,7 +8,7 @@ body {
   background-color: #292937 !important;
 }
 
-.section-menu {
+.section-menu, .section-menu-bar {
   background-color: #313142 !important;
   color: white !important;
 }
